@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/solvien-open-source.jpg" alt="Solvien Open Source" width="100%">
+  <img src="/assets/solvien-open-source.jpg" alt="Solvien Open Source" 
 </p>
 
 
