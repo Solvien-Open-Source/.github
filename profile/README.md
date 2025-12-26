@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Solvien Open Source" width="100%">
+</p>
+
+
 # Solvien Open Source
 
 Research driven open source tools for artificial intelligence, data science, bioinformatics, and multidisciplinary engineering.
